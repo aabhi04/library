@@ -1,0 +1,42 @@
+[
+    {
+      "bookId": "001",
+      "bookName": "Lord Of Rings",
+      "authorId": "111",
+      "authorName": "Author 1",
+      "publicationDate": "2023-01-15",
+      "type": "Book"
+    },
+    {
+      "bookId": "002",
+      "bookName": "Harry Potter",
+      "authorId": "222",
+      "authorName": "Author 2",
+      "publicationDate": "2023-02-28",
+      "type": "Book"
+    },
+    {
+      "bookId": "003",
+      "bookName": "Diary Of Wimpy Kid",
+      "authorId": "555",
+      "authorName": "Author 3",
+      "publicationDate": "2023-03-10",
+      "type": "Journal"
+    },
+    {
+      "bookId": "004",
+      "bookName": "Dracula",
+      "authorId": "333",
+      "authorName": "Author 1",
+      "publicationDate": "2023-04-20",
+      "type": "Book"
+    },
+    {
+      "bookId": "005",
+      "bookName": "Diary",
+      "authorId": "444",
+      "authorName": "Author 4",
+      "publicationDate": "2023-05-05",
+      "type": "Journal"
+    }
+  ]
